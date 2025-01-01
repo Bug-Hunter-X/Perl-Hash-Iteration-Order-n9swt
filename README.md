@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error in Perl related to the unpredictable order of hash iteration.  The solution shows how to ensure predictable order if needed.
